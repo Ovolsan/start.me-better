@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         start.me-better
 // @namespace    https://github.com/Ovolsan/start.me-better
-// @version      20260924.1
+// @version      20260924.2
 // @author       Ovolsan
 // @description  Перемещает поиск закладок Start.me между виджетами
 // @match        https://start.me/p/*
 // @grant        GM_addStyle
 // @run-at       document-idle
-// @updateURL
+// @updateURL    https://raw.githubusercontent.com/Ovolsan/start.me-better/main/start.me-better.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ovolsan/start.me-better/main/start.me-better.user.js
 // ==/UserScript==
 
 (function () {
